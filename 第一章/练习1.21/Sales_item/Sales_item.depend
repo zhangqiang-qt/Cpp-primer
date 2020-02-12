@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1581470581 source:d:\2.编程文件存档\2.c++\cpp-primer\1.第一章\练习1.20\sales_item\main.cpp
-	<iostream>
-	"Sales_item.h"
-
-1581469218 d:\2.编程文件存档\2.c++\cpp-primer\1.第一章\练习1.20\sales_item\sales_item.h
-	<iostream>
-	<string>
-
