@@ -1,0 +1,6 @@
+#ifndef CHAPTER06_H_INCLUDED
+#define CHAPTER06_H_INCLUDED
+
+int fact(int);
+
+#endif // CHAPTER06_H_INCLUDED
